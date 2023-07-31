@@ -1,0 +1,4 @@
+import{a as t,b as n,c as o,d as e}from"./chunk-FBALW72I.js";import"./chunk-TTX6TVTO.js";var r={version:"1.1",xmlns:"http://www.w3.org/2000/svg","xmlns:xlink":"http://www.w3.org/1999/xlink",x:"0px",y:"0px",viewBox:"0 0 512 512","enable-background":"new 0 0 512 512","xml:space":"preserve"},l=e("g",{transform:"translate(96 48)"},[e("g",null,[e("path",{d:`M351.659,48H-31.659C-49.496,48-64,62.484-64,80.308v255.349C-64,353.493-49.496,368-31.659,368h383.318\r
+			C369.496,368,384,353.493,384,335.656V80.308C384,62.484,369.496,48,351.659,48z M188.023,304h-56.048v-96l-42.04,53.878\r
+			L47.913,208v96H-8.131V112h56.044l42.022,67.98l42.04-67.98h56.048V304L188.023,304z M271.68,304l-69.635-96h42v-96h56.043v96\r
+			h42.027l-70.453,96H271.68z`})])],-1),a=[l],m=t({name:"LogoMarkdown",render:function(c,h){return n(),o("svg",r,a)}});export{m as default};

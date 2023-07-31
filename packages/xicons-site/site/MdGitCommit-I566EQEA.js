@@ -1,0 +1,3 @@
+import{a as e,b as t,c as n,d as o}from"./chunk-FBALW72I.js";import"./chunk-TTX6TVTO.js";var c={version:"1.1",xmlns:"http://www.w3.org/2000/svg","xmlns:xlink":"http://www.w3.org/1999/xlink",x:"0px",y:"0px",viewBox:"0 0 512 512","enable-background":"new 0 0 512 512","xml:space":"preserve"},r=o("path",{d:`M480,224h-99.8c-14.2-55.2-64.2-96-123.7-96c-59.5,0-109.5,40.8-123.7,96H32v64h100.8c14.2,55.2,64.2,96,123.7,96\r
+	c59.5,0,109.5-40.8,123.7-96H480V224z M256.5,336c-44,0-79.8-35.9-79.8-80s35.8-80,79.8-80c44,0,79.8,35.9,79.8,80\r
+	S300.5,336,256.5,336z`},null,-1),l=[r],i=e({name:"MdGitCommit",render:function(a,m){return t(),n("svg",c,l)}});export{i as default};

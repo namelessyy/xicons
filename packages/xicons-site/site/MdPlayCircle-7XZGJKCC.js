@@ -1,0 +1,2 @@
+import{a as e,b as n,c as t,d as o}from"./chunk-FBALW72I.js";import"./chunk-TTX6TVTO.js";var r={version:"1.1",xmlns:"http://www.w3.org/2000/svg","xmlns:xlink":"http://www.w3.org/1999/xlink",x:"0px",y:"0px",viewBox:"0 0 512 512","enable-background":"new 0 0 512 512","xml:space":"preserve"},l=o("path",{d:`M256,48C141.2,48,48,141.2,48,256s93.2,208,208,208s208-93.2,208-208S370.8,48,256,48z M214.4,349.6V162.4L339.2,256
+	L214.4,349.6z`},null,-1),c=[l],i=e({name:"MdPlayCircle",render:function(a,d){return n(),t("svg",r,c)}});export{i as default};

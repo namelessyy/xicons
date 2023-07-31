@@ -1,0 +1,1 @@
+import{a as e,b as t,c as o,d as n}from"./chunk-FBALW72I.js";import"./chunk-TTX6TVTO.js";var l={xmlns:"http://www.w3.org/2000/svg","xmlns:xlink":"http://www.w3.org/1999/xlink",viewBox:"0 0 24 24"},r=n("path",{d:"M19 12.998H5v-2h14z",fill:"currentColor"},null,-1),c=[r],d=e({name:"MinusTwotone",render:function(a,i){return t(),o("svg",l,c)}});export{d as default};

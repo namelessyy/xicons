@@ -1,0 +1,1 @@
+import{a as e,b as o,c as t,d as n}from"./chunk-FBALW72I.js";import"./chunk-TTX6TVTO.js";var l={xmlns:"http://www.w3.org/2000/svg","xmlns:xlink":"http://www.w3.org/1999/xlink",viewBox:"0 0 24 24"},r=n("path",{d:"M19 3H5v18l7-3l7 3V3z",fill:"currentColor"},null,-1),c=[r],d=e({name:"BookmarkSharp",render:function(s,m){return o(),t("svg",l,c)}});export{d as default};

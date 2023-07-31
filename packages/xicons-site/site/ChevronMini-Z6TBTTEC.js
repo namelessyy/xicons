@@ -1,0 +1,1 @@
+import{a as e,b as t,c as n,d as o}from"./chunk-FBALW72I.js";import"./chunk-TTX6TVTO.js";var l={xmlns:"http://www.w3.org/2000/svg","xmlns:xlink":"http://www.w3.org/1999/xlink",viewBox:"0 0 32 32"},r=o("path",{d:"M31 19v12H19l12-12z",fill:"currentColor"},null,-1),c=[r],d=e({name:"ChevronMini",render:function(i,a){return t(),n("svg",l,c)}});export{d as default};

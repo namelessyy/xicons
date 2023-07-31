@@ -1,0 +1,1 @@
+import{a as e,b as o,c as t,d as n}from"./chunk-FBALW72I.js";import"./chunk-TTX6TVTO.js";var l={xmlns:"http://www.w3.org/2000/svg","xmlns:xlink":"http://www.w3.org/1999/xlink",viewBox:"0 0 24 24"},r=n("path",{d:"M20 2H4v20h16V2zM6 4h5v8l-2.5-1.5L6 12V4z",fill:"currentColor"},null,-1),c=[r],h=e({name:"BookSharp",render:function(a,_){return o(),t("svg",l,c)}});export{h as default};

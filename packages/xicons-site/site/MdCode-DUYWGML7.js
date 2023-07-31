@@ -1,0 +1,2 @@
+import{a as e,b as n,c as t,d as o}from"./chunk-FBALW72I.js";import"./chunk-TTX6TVTO.js";var l={version:"1.1",xmlns:"http://www.w3.org/2000/svg","xmlns:xlink":"http://www.w3.org/1999/xlink",x:"0px",y:"0px",viewBox:"0 0 512 512","enable-background":"new 0 0 512 512","xml:space":"preserve"},r=o("path",{d:`M190.4,354.1L91.9,256l98.4-98.1l-30-29.9L32,256l128.4,128L190.4,354.1z M321.6,354.1l98.4-98.1l-98.4-98.1l30-29.9\r
+	L480,256L351.6,384C351.6,384,321.6,354.1,321.6,354.1z`},null,-1),c=[r],m=e({name:"MdCode",render:function(a,d){return n(),t("svg",l,c)}});export{m as default};

@@ -1,0 +1,2 @@
+import{a as t,b as n,c as o,d as e}from"./chunk-FBALW72I.js";import"./chunk-TTX6TVTO.js";var r={version:"1.1",xmlns:"http://www.w3.org/2000/svg","xmlns:xlink":"http://www.w3.org/1999/xlink",x:"0px",y:"0px",viewBox:"0 0 512 512","enable-background":"new 0 0 512 512","xml:space":"preserve"},l=e("g",null,[e("path",{d:`M464,256c0-114.875-93.125-208-208-208S48,141.125,48,256s93.125,208,208,208S464,370.875,464,256z M192,256l96-96v192\r
+		L192,256z`})],-1),c=[l],i=t({name:"MdArrowDropleftCircle",render:function(a,p){return n(),o("svg",r,c)}});export{i as default};

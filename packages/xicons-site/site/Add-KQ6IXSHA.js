@@ -1,0 +1,1 @@
+import{a as e,b as t,c as o,d as n}from"./chunk-FBALW72I.js";import"./chunk-TTX6TVTO.js";var l={xmlns:"http://www.w3.org/2000/svg","xmlns:xlink":"http://www.w3.org/1999/xlink",viewBox:"0 0 32 32"},r=n("path",{d:"M17 15V8h-2v7H8v2h7v7h2v-7h7v-2z",fill:"currentColor"},null,-1),c=[r],_=e({name:"Add",render:function(d,a){return t(),o("svg",l,c)}});export{_ as default};

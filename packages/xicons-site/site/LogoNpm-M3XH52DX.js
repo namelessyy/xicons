@@ -1,0 +1,3 @@
+import{a as t,b as n,c as o,d as e}from"./chunk-FBALW72I.js";import"./chunk-TTX6TVTO.js";var h={version:"1.1",xmlns:"http://www.w3.org/2000/svg","xmlns:xlink":"http://www.w3.org/1999/xlink",x:"0px",y:"0px",viewBox:"0 0 512 512","enable-background":"new 0 0 512 512","xml:space":"preserve"},r=e("g",null,[e("rect",{x:"227.6",y:"213.1",width:"28.4",height:"57.1"}),e("path",{d:`M0,156v171.4h142.2V356H256v-28.6h256V156H0z M142.2,298.9h-28.4v-85.7H85.3v85.7H28.4V184.6h113.8V298.9z
+		 M284.4,298.9h-56.9v28.6h-56.9V184.6h113.8V298.9z M483.6,298.9h-28.4v-85.7h-28.4v85.7h-28.4v-85.7h-28.4v85.7h-56.9V184.6h170.7
+		V298.9z`})],-1),c=[r],p=t({name:"LogoNpm",render:function(s,a){return n(),o("svg",h,c)}});export{p as default};

@@ -1,0 +1,3 @@
+import{a as t,b as n,c as o,d as e}from"./chunk-FBALW72I.js";import"./chunk-TTX6TVTO.js";var l={version:"1.1",xmlns:"http://www.w3.org/2000/svg","xmlns:xlink":"http://www.w3.org/1999/xlink",x:"0px",y:"0px",viewBox:"0 0 512 512","enable-background":"new 0 0 512 512","xml:space":"preserve"},r=e("g",null,[e("g",null,[e("path",{d:`M448,405.333V106.667C448,83.198,428.802,64,405.333,64H106.667C83.198,64,64,83.198,64,106.667v298.666\r
+			C64,428.802,83.198,448,106.667,448h298.666C428.802,448,448,428.802,448,405.333z M181.333,288l53.334,64l74.666-96l96,128\r
+			H106.667L181.333,288z`})])],-1),c=[r],p=t({name:"MdImage",render:function(a,d){return n(),o("svg",l,c)}});export{p as default};

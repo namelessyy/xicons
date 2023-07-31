@@ -1,0 +1,3 @@
+import{a as t,b as n,c as o,d as e}from"./chunk-FBALW72I.js";import"./chunk-TTX6TVTO.js";var c={version:"1.1",xmlns:"http://www.w3.org/2000/svg","xmlns:xlink":"http://www.w3.org/1999/xlink",x:"0px",y:"0px",viewBox:"0 0 512 512","enable-background":"new 0 0 512 512","xml:space":"preserve"},r=e("g",null,[e("path",{d:`M352,64H160c-52.8,0-96,43.2-96,96v192c0,52.8,43.2,96,96,96h192c52.8,0,96-43.2,96-96V160C448,107.2,404.8,64,352,64z
+		 M184,304c-26.5,0-48-21.5-48-48s21.5-48,48-48s48,21.5,48,48S210.5,304,184,304z M328,304c-26.5,0-48-21.5-48-48s21.5-48,48-48
+		s48,21.5,48,48S354.5,304,328,304z`})],-1),s=[r],i=t({name:"LogoFlickr",render:function(a,p){return n(),o("svg",c,s)}});export{i as default};

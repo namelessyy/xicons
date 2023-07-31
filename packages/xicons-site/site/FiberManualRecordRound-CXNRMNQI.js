@@ -1,0 +1,1 @@
+import{a as e,b as o,c as n,d as t}from"./chunk-FBALW72I.js";import"./chunk-TTX6TVTO.js";var r={xmlns:"http://www.w3.org/2000/svg","xmlns:xlink":"http://www.w3.org/1999/xlink",viewBox:"0 0 24 24"},c=t("circle",{cx:"12",cy:"12",r:"8",fill:"currentColor"},null,-1),l=[c],_=e({name:"FiberManualRecordRound",render:function(a,i){return o(),n("svg",r,l)}});export{_ as default};

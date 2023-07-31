@@ -1,0 +1,3 @@
+import{a as e,b as n,c as t,d as o}from"./chunk-FBALW72I.js";import"./chunk-TTX6TVTO.js";var r={version:"1.1",xmlns:"http://www.w3.org/2000/svg","xmlns:xlink":"http://www.w3.org/1999/xlink",x:"0px",y:"0px",viewBox:"0 0 512 512","enable-background":"new 0 0 512 512","xml:space":"preserve"},s=o("path",{d:`M296,136c0-22.002-17.998-40-40-40s-40,17.998-40,40s17.998,40,40,40S296,158.002,296,136z M296,376\r
+	c0-22.002-17.998-40-40-40s-40,17.998-40,40s17.998,40,40,40S296,398.002,296,376z M296,256c0-22.002-17.998-40-40-40\r
+	s-40,17.998-40,40s17.998,40,40,40S296,278.002,296,256z`},null,-1),c=[s],m=e({name:"MdMore",render:function(a,d){return n(),t("svg",r,c)}});export{m as default};

@@ -1,0 +1,3 @@
+import{a as e,b as n,c as l,d as t}from"./chunk-FBALW72I.js";import"./chunk-TTX6TVTO.js";var o={version:"1.1",xmlns:"http://www.w3.org/2000/svg","xmlns:xlink":"http://www.w3.org/1999/xlink",x:"0px",y:"0px",viewBox:"0 0 512 512","enable-background":"new 0 0 512 512","xml:space":"preserve"},c=t("path",{d:`M433.5,96H167.2c-12.2,0-21.8,6.2-28.2,15.6L43,256l96,144.2c6.4,9.4,16,15.8,28.2,15.8h266.2c19.5,0,35.5-16,35.5-35.6\r
+	V131.6C469,112,453,96,433.5,96z M380.2,319.8l-25,25.1l-63.7-63.8l-63.7,63.8l-25-25.1l63.7-63.8l-63.7-63.8l25-25.1l63.7,63.8\r
+	l63.7-63.8l25,25.1L316.5,256L380.2,319.8z`},null,-1),r=[c],m=e({name:"MdBackspace",render:function(a,p){return n(),l("svg",o,r)}});export{m as default};

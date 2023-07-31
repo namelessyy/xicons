@@ -1,0 +1,1 @@
+import{a as e,b as o,c as t,d as n}from"./chunk-FBALW72I.js";import"./chunk-TTX6TVTO.js";var c={xmlns:"http://www.w3.org/2000/svg","xmlns:xlink":"http://www.w3.org/1999/xlink",viewBox:"0 0 32 32"},l=n("circle",{cx:"16",cy:"16",r:"14",fill:"currentColor"},null,-1),r=[l],d=e({name:"CircleSolid",render:function(s,_){return o(),t("svg",c,r)}});export{d as default};

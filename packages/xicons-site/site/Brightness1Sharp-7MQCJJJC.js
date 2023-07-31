@@ -1,0 +1,1 @@
+import{a as e,b as t,c as n,d as o}from"./chunk-FBALW72I.js";import"./chunk-TTX6TVTO.js";var r={xmlns:"http://www.w3.org/2000/svg","xmlns:xlink":"http://www.w3.org/1999/xlink",viewBox:"0 0 24 24"},c=o("circle",{cx:"12",cy:"12",r:"10",fill:"currentColor"},null,-1),l=[c],m=e({name:"Brightness1Sharp",render:function(i,a){return t(),n("svg",r,l)}});export{m as default};

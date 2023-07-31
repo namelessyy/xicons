@@ -1,0 +1,1 @@
+import{a as e,b as t,c as o,d as n}from"./chunk-FBALW72I.js";import"./chunk-TTX6TVTO.js";var l={xmlns:"http://www.w3.org/2000/svg","xmlns:xlink":"http://www.w3.org/1999/xlink",viewBox:"0 0 24 24"},r=n("path",{d:"M6 5h4v14H6zm8 0h4v14h-4z",fill:"currentColor"},null,-1),c=[r],d=e({name:"PauseTwotone",render:function(a,m){return t(),o("svg",l,c)}});export{d as default};

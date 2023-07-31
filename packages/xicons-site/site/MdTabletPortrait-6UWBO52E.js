@@ -1,0 +1,3 @@
+import{a as t,b as n,c,d as e}from"./chunk-FBALW72I.js";import"./chunk-TTX6TVTO.js";var o={version:"1.1",xmlns:"http://www.w3.org/2000/svg","xmlns:xlink":"http://www.w3.org/1999/xlink",x:"0px",y:"0px",viewBox:"0 0 512 512","enable-background":"new 0 0 512 512","xml:space":"preserve"},r=e("g",null,[e("path",{d:`M392,32c-42.9,0-222.3,0-272,0c-13.3,0-24,10.7-24,24c0,30.4,0,371,0,400c0,13.3,10.7,24,24,24h272c13.3,0,24-10.7,24-24\r
+		c0-29,0-369.7,0-400C416,42.7,405.3,32,392,32z M384,416H128V80h256V416z M256,462c-7.7,0-14-6.5-14-14.1c0-7.5,6.2-14,14-14\r
+		c7.7,0,14.1,6.4,14.1,14C270,455.5,263.7,462,256,462z`})],-1),l=[r],i=t({name:"MdTabletPortrait",render:function(s,d){return n(),c("svg",o,l)}});export{i as default};

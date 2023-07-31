@@ -1,0 +1,2 @@
+import{a as e,b as n,c as t,d as o}from"./chunk-FBALW72I.js";import"./chunk-TTX6TVTO.js";var r={version:"1.1",xmlns:"http://www.w3.org/2000/svg","xmlns:xlink":"http://www.w3.org/1999/xlink",x:"0px",y:"0px",viewBox:"0 0 512 512","enable-background":"new 0 0 512 512","xml:space":"preserve"},l=o("path",{d:`M131.3,231.1L32,330.6l99.3,99.4v-74.6h174.5v-49.7H131.3V231.1z M480,181.4L380.7,82v74.6H206.2v49.7h174.5v74.6L480,181.4\r
+	z`},null,-1),c=[l],m=e({name:"MdSwap",render:function(a,p){return n(),t("svg",r,c)}});export{m as default};

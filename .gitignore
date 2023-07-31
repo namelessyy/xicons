@@ -2,8 +2,8 @@ packages/xicons/resources
 node_modules
 yarn.lock
 .vscode
-site
 dist
 
 es
 lib
+pnpm-lock.yaml

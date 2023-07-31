@@ -1,0 +1,2 @@
+import{a as n,b as t,c as o,d as e}from"./chunk-FBALW72I.js";import"./chunk-TTX6TVTO.js";var r={version:"1.1",xmlns:"http://www.w3.org/2000/svg","xmlns:xlink":"http://www.w3.org/1999/xlink",x:"0px",y:"0px",viewBox:"0 0 512 512","enable-background":"new 0 0 512 512","xml:space":"preserve"},l=e("g",null,[e("polygon",{points:`256,372.686 380.83,448 347.809,305.934 458,210.409 312.733,197.934 256,64 199.257,197.934 54,210.409 \r
+		164.192,305.934 131.161,448 	`})],-1),c=[l],i=n({name:"MdStar",render:function(a,p){return t(),o("svg",r,c)}});export{i as default};

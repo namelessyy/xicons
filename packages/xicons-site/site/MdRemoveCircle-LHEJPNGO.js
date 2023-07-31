@@ -1,0 +1,2 @@
+import{a as n,b as t,c as o,d as e}from"./chunk-FBALW72I.js";import"./chunk-TTX6TVTO.js";var r={version:"1.1",xmlns:"http://www.w3.org/2000/svg","xmlns:xlink":"http://www.w3.org/1999/xlink",x:"0px",y:"0px",viewBox:"0 0 512 512","enable-background":"new 0 0 512 512","xml:space":"preserve"},c=e("g",null,[e("path",{d:`M256,48C141.125,48,48,141.125,48,256s93.125,208,208,208s208-93.125,208-208S370.875,48,256,48z M363,277H149v-42h214V277\r
+		z`})],-1),l=[c],p=n({name:"MdRemoveCircle",render:function(a,d){return t(),o("svg",r,l)}});export{p as default};

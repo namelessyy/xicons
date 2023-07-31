@@ -7,8 +7,8 @@
   "private": true,
   "scripts": {
     "clean": "rm -rf dist",
-    "init": "./init.sh && ./checkout.sh",
-    "checkout": "./checkout.sh",
+    "init": "sh init.sh && sh checkout.sh",
+    "checkout": "sh checkout.sh",
     "build": "pnpm run clean && node scripts/generate.js && pnpm run format",
     "build:for-site": "pnpm run clean && node scripts/generate.js --for-site",
     "build:no-format": "pnpm run clean && node scripts/generate.js",

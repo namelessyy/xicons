@@ -1,0 +1,3 @@
+import{a as t,b as n,c as o,d as e}from"./chunk-FBALW72I.js";import"./chunk-TTX6TVTO.js";var l={version:"1.1",xmlns:"http://www.w3.org/2000/svg","xmlns:xlink":"http://www.w3.org/1999/xlink",x:"0px",y:"0px",viewBox:"0 0 512 512","enable-background":"new 0 0 512 512","xml:space":"preserve"},c=e("g",null,[e("g",null,[e("g",null,[e("path",{d:`M416,256c0-51.001-24.004-96.001-60.996-125L336,16H176l-19.004,115C120.004,159.999,96,204.999,96,256\r
+				c0,50.996,24.004,95.996,60.996,125L176,496h160l19.004-115C391.996,351.996,416,306.996,416,256z M136,256\r
+				c0-66.001,54.004-120,120-120s120,53.999,120,120c0,65.996-54.004,120-120,120S136,321.996,136,256z`})])])],-1),r=[c],m=t({name:"MdWatch",render:function(a,d){return n(),o("svg",l,r)}});export{m as default};
